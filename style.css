@@ -1,0 +1,18 @@
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+.headings {
+    font-style: italic;
+    color: #FF6F00;
+}
+
+.loading{
+    color:orangered;
+}
+  
+.ready{
+    color:green;
+}
